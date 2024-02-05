@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504520895843",
+    "project_id": "e--raisequest-app",
+    "storage_bucket": "e--raisequest-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504520895843:android:4689653d477ab3acdef756",
+        "android_client_info": {
+          "package_name": "com.thecomplaint_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504520895843-sa28lig2d0bb5m21jifet71ovim2v6n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thecomplaint_management_system",
+            "certificate_hash": "c00451ec24add9b9d8504e7883fc177bb6d001c0"
+          }
+        },
+        {
+          "client_id": "504520895843-0rjguigdb03a63hbe13figfnh6n0imj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFXfkjxgtIMYW2e0AGfU7FyuF6gAvlaI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504520895843-0rjguigdb03a63hbe13figfnh6n0imj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
